@@ -6,4 +6,4 @@ happyholidyas();
 function sayHelloToIsabel() {
   console.log("Hello, Isabel!")
 }
-helloToIsabel
+helloToIsabel();
