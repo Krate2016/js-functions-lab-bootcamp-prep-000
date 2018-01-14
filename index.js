@@ -4,6 +4,5 @@ function happyHolidays() {
 happyholidyas();
 
 function happyHolidaysToChiquita() {
-  return "Happy holidays, ${Chiquita}!";
-}
-happyHolidaysToChiquita();
+  return "Happy holidays, Chiquita!!"}
+happyholidyasToChiquita();
